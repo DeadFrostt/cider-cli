@@ -1,6 +1,6 @@
 # Cider CLI
 
-Cider CLI (`cidercli.go`) is a command-line tool to interact with the Cider music player through its RPC endpoints. This script allows you to control playback, manage the library, and fetch information about the currently playing song.
+Cider CLI (`cider-cli.go`) is a command-line tool to interact with the Cider music player through its RPC endpoints. This script allows you to control playback, manage the library, and fetch information about the currently playing song.
 
 ## Requirements
 
